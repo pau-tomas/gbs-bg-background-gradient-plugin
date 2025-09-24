@@ -16,7 +16,7 @@ An experimental GB Studio plugin that creates a gradient effect for scene backgr
 
 - Use the `Init Background Gradient FX Colors` event to set the gradient’s start and end colors.
 - Use the `Enable Background Gradient FX` event to activate the effect. 
-- By default, the plugin replaces the first color of Background Palettes 0–3 with the gradient color. You can change which palettes are replaced in the `Gradient FX` section of the Project Settings page.
+- By default, the plugin replaces the first color of Background Palettes 1–4 with the gradient color. You can change which palettes are replaced in the `Gradient FX` section of the Project Settings page.
 - Use the Disable `Background Gradient FX` event to turn the effect off.
 
 Inspired by the excellent Scanline FX plugin template by [Gud Graphics](https://github.com/mikeleisz/gud_gbs_plugins) 
