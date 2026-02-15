@@ -2,7 +2,7 @@
 
 An experimental GB Studio plugin that creates a gradient effect for scene backgrounds.
 
-<img src="screenshots/gradientfx.png" width="360"/>
+<img src="Background Gradient FX/screenshots/gradientfx.png" width="360"/>
 
 > [!WARNING] 
 > This plugin isn’t compatible with other features that use scanline interrupts. Features such as background text drawing, dialogue rendering on top, parallax scrolling, or Logo scenes may not work as expected across **the entire project** and not just in scenes where Background Gradient FX is enabled. Other plugins that rely on scanline interrupts are also unlikely to work properly.
